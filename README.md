@@ -8,7 +8,6 @@ Write a program to check if two given String is Anagram of each other. Your func
 * JUnit 5.6.0 https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api
  
 ## How to Run
-- Give step by step instructions
     1. Open the project in Intellij
     2. Navigate to the Main.java file in the project explorer
     3. Run the main method
